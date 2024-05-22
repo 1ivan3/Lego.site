@@ -1,0 +1,39 @@
+body{
+    background-color: red;
+}
+
+
+h1{
+    text-align: center;
+    color: yellow;
+}
+
+hr{
+    color: black;
+}
+
+.Menu{
+    margin-right: 0;
+    margin-left: auto;
+    text-align: center;
+    border: 2px solid;
+    border-radius: 15px;
+    img{
+        width: 100px; height: 60px; border-radius: 10px;
+    }
+
+    td{
+        font-size: xx-large;
+    }
+}
+
+.Main{
+    margin-left: auto;
+    margin-right: auto;
+    p{
+        img{
+            vertical-align: top;
+            width: 600px;
+        }
+    }
+}
